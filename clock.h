@@ -1,7 +1,7 @@
 #include<iostream>
 #include<Windows.h>
 
-// should be equal to 12 or 24 to set clock in the desired format
+// should be equal to 11 or 23 to set clock in the desired format
 #define MAX_HOURS 23
 
 // variables to store the user input for hours, minutes and seconds respectively
